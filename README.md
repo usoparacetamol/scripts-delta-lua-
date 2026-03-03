@@ -13,6 +13,7 @@ NÃO me responsabilizo por banimento do jogo e/ou plataforma Roblox
 
 ​🚀 Como Usar
 ---
+key delta: FREE_6f64e15f553c03e98b288180b74c4815
 ​Para rodar qualquer script deste repositório no seu ambiente de teste:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SEU_USUARIO/scripts-delta-lua/main/NOME_DO_ARQUIVO.lua"))()
